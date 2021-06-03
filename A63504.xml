@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true declaration of the present proceedings of the army VVith their reasons and resolutions against dis-banding, untill satisfaction be given in relation to their grievances, and their due expectations answered in the establishment of justice, truth, and peace, within these kingdomes. Being the results of a late councell of vvarre; wherein is manifested the ground and end of their present undertakings. VVhereunto is annexed severall reasons, why the souldiers of the army cast out their dissenting officers .</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63504</idno><idno type="EEBO-CITATION">99830860</idno>
+  <idno type="VID">35321</idno>
+  <idno type="EEBO-PROQUEST">2240859097</idno>
+  
+            <idno type="STC">Wing T2670</idno>
+            <idno type="STC">ESTC R219382</idno>
+            <idno type="PROQUEST">99830860</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830860e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true declaration of the present proceedings of the army VVith their reasons and resolutions against dis-banding, untill satisfaction be given in relation to their grievances, and their due expectations answered in the establishment of justice, truth, and peace, within these kingdomes. Being the results of a late councell of vvarre; wherein is manifested the ground and end of their present undertakings. VVhereunto is annexed severall reasons, why the souldiers of the army cast out their dissenting officers .</title>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by command, for the satifaction of the kingdome,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>June 12. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>"Two men from each of ten regiments sign this .. statement," -- cf. Madan.</note>
+                  <note>In this edition, "June 12" is in the colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35321:1"/>
+            <p>A TRUE DECLARATION OF The present proceedings of the ARMY. VVITH Their REASONS and RESOLUTIONS against Dis-banding, un<g ref="char:EOLhyphen"/>till satisfaction be given in relation to their grievances, and their due expectations answered in the establish<g ref="char:EOLhyphen"/>ment of JUSTICE, TRUTH, and PEACE, within these Kingdomes. BEING The RESULTS of a late COUNCELL of VVARRE; wherein is manifested the ground and end of their present undertakings. VVhereunto is annexed severall Reasons, why the Souldiers of the Army cast out their dissenting Officers</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Published by Command, for the satisfaction of the Kingdome.</p>
+                           <closer>
+                              <dateline>
+                                 <date>June 12 1647.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35321:2"/>
+            <pb n="3" facs="tcp:35321:2"/>
+            <head>A DECLARATION OF The present proceedings of the ARMY, with their reasons a<g ref="char:EOLhyphen"/>gainst dis-banding, untill satisfaction in relation to their grievances be fully given: and their due expectations answered, both by vindication and repa<g ref="char:EOLhyphen"/>ration for the present, and pro<g ref="char:EOLhyphen"/>tection for the future a<g ref="char:EOLhyphen"/>gainst the like ille<g ref="char:EOLhyphen"/>gall practises.</head>
+            <p>WHereas upon the Petition intended and a<g ref="char:EOLhyphen"/>greed upon in the Army, March last, to have been presented to the Generall, for the ob<g ref="char:EOLhyphen"/>taining onely of our due and necessary con<g ref="char:EOLhyphen"/>cernments as Souldiers: The Honourable House of Commons, being unseasonably prepossest with a coppy thereof, and as by the sequel we suppose, with some strange misrepresentations of the carriage and inten<g ref="char:EOLhyphen"/>tions of the same; was induced to send downe an Ordinance to suppresse the Petition: And within two or three dayes after, upon further misinformation and scandalous suggestions of the like, or worse nature, and by the indirect practise of some mali<g ref="char:EOLhyphen"/>cious and mischievous persons, as we suppose, surprizing, or o<g ref="char:EOLhyphen"/>therwise abusing the Parliament; a Declaration was published in the name of both Houses, highly censuring the said Petition; and declaring the said Petitioners if they should proceed thereupon, no lesse then enemies to the State, and disturbers of the publique peace.</p>
+            <p>And whereas at the same time, and since, diverse eminent Of<g ref="char:EOLhyphen"/>ficers of the Army have been brought into question and trouble about the said Petition; whereby both they and the rest are dis<g ref="char:EOLhyphen"/>abled or discouraged for the time from farther acting or appea<g ref="char:EOLhyphen"/>ring therein on the Souldiers behalfe. And whereas by the fore<g ref="char:EOLhyphen"/>said proceedings, and the effects thereof, the Souldiers of this Ar<g ref="char:EOLhyphen"/>mie finding themselves so stopt in their due and regular way of making known their grievances and desires to and by their Offi<g ref="char:EOLhyphen"/>cers,
+<pb n="4" facs="tcp:35321:3"/>were inforced into an unusuall, (but in that case necessa<g ref="char:EOLhyphen"/>ry) way of correspondence and agreement amongst themselves, to chuse out of the several Troups and Companies several men, and those out of their whole number, to chuse two or more for each Regiment, to act in the names and behalfe of the whole Souldiery of the respective Troups and Companies, in the pro<g ref="char:EOLhyphen"/>secution of their Rights and Desires in the said Petition; as also of their due vindication and righting in reference to the afore<g ref="char:EOLhyphen"/>said proceedings upon and against the same: who have accor<g ref="char:EOLhyphen"/>dingly acted and done many things to those ends, which the Souldiery do own and approve as their own acts: And where<g ref="char:EOLhyphen"/>as afterwards upon the sending down Maior Generall Skippon, and those other officers of the Army, that were Members of the House of Commons, to quiet distempers in the Army, fresh hopes being conceived of having our grievances and desires ad<g ref="char:EOLhyphen"/>mitted again to be made known and considered in a regular way; and without such misrepresentations as formerly: The Officers and Souldiers of the Army did again (except some few dissenting Officers) ioyn in a representation of their common grievances: And the Officers (except as before) did agree upon a narrative account of the grounds, rise, and growth of the dis<g ref="char:EOLhyphen"/>contents in the Army, and their proceedings in relation there<g ref="char:EOLhyphen"/>unto, with an overture of the best expedients to remove or sa<g ref="char:EOLhyphen"/>tisfy the same; both which were presented to the Members of the House, and from them reported to the house. And whereas the Parliament having thereupon voted and ordered some particu<g ref="char:EOLhyphen"/>lars towards satisfaction of some of our grievances, have since proceeded to certain resolutions of suddaine disbanding the Ar<g ref="char:EOLhyphen"/>my by pieces, which resolution being taken and to be executed before full or equall satisfaction given to the whole Army in a<g ref="char:EOLhyphen"/>ny of the grievances; before effectuall performance of that satis<g ref="char:EOLhyphen"/>faction in part, which the precedent Votes seems to promise as to some of the grievances; before any consideration at all of some others most materiall, as by the results, of a generall Councell of VVarre, on Saturday last it was in generall decla<g ref="char:EOLhyphen"/>red, and now more fully demonstrated in particulars by a repre<g ref="char:EOLhyphen"/>sentation thereof, agreed upon by us all: we cannot but looke upon the said resolution of dis-banding us in such a manner, as proceding from the same malicious, and mischevious principles
+<pb n="5" facs="tcp:35321:3"/>and intentions, indirect practices of the same persons, abusing the Parliament and us, as the former proceedings against us be<g ref="char:EOLhyphen"/>fore mentioned did; and not without cruell, bloody purposes (as some of them have not stuck to declare or intimate) after the body of the Army shall be dis-banded, or the Souldiers devi<g ref="char:EOLhyphen"/>ded from their Officers, then to question; proceed against, &amp; ex<g ref="char:EOLhyphen"/>ecute ther malicious intentions upon all such particular Officers and Souldiers in the Army, as had appeared to act in the premi<g ref="char:EOLhyphen"/>ses in behalfe of the Army: whereas upon the late petition to the Generall, from the Agitators, in behalfe of the Souldiery, grounded upon the preceding considerations, relating to the said resolutuons of dis-banding; the generall Councell of VVar to prevent the danger and inconvenience of those disturbances of tumultuous actings, with the dis-satisfaction, and iealousies thereupon also grounded; were like suddenly to have produced in the Army; did advise the Generall first to contract the quar<g ref="char:EOLhyphen"/>ters of the Army; and then to draw the same to an orderly ren<g ref="char:EOLhyphen"/>dezvous, for satisfaction of all, and that his Excellency would immediatly send up to move the Parliament to suspend any pre<g ref="char:EOLhyphen"/>sent proceeding on the said resolution of dis-banding, to reas<g ref="char:EOLhyphen"/>sume the consideration of the grievances &amp; desires sent up from the Army, and yet not to disband it in peeces, before iust and equall satisfaction be given to the whole, and whereas some of the Regiments appointed for dis-banding, upon notice hereof withdrawing themselves from the quarters adioyning to the ap<g ref="char:EOLhyphen"/>pointed rendezvous, &amp; drawing towards the head-quarters and the rest contracting their quarters by order according to the ad<g ref="char:EOLhyphen"/>vice of the said Councell of VVarre.</p>
+            <p>VVe the Officers &amp; Souldiers of severall Regiments are now met at a generall rendezvous, &amp; the Regiments appointed, as a<g ref="char:EOLhyphen"/>foresaid to be dis-banded, have not appeared, nor can appear, but rather resolved not to appeare at their severall rendezvous ap<g ref="char:EOLhyphen"/>pointed for their dis-banding; &amp; divers other things have been done by severall other parts, or members of the Army, necessari<g ref="char:EOLhyphen"/>ly relating to the good concernment of the whole, in these af<g ref="char:EOLhyphen"/>faires: now forasmuch as we know not how far the malice, in<g ref="char:EOLhyphen"/>iustice, &amp; tirany, will-principles, of our enemies which have al<g ref="char:EOLhyphen"/>ready prevailed so far, as to abuse the Parliament &amp; Army, as is afore-mentioned in the past-proceedings against the Army, may
+<pb n="6" facs="tcp:35321:4"/>farther prevaile to the danger or preiudice of our selves, or any Officer or Souldiers of the Army, that have appeared to act any thing in behalfe of the Army, or how far the same may farther prevaile to the danger or preiudice of the Kinkdome, in raising a new VVarre, or otherwise.</p>
+            <p>therefore for the better prevention of all such dangers, preiu<g ref="char:EOLhyphen"/>dices, or other inconveniences that may ensue, and with all for the better satisfaction to the Parliament and kingdome, con<g ref="char:EOLhyphen"/>cerning our desires of conforming to the authority of the one, and providing for the good and quiet of the other, in the pre<g ref="char:EOLhyphen"/>sent affaire of dis-banding, and for a more assured way whereby that affaire may come to certaine issue; wee humbly implore that continued presence and affistance of God the righteous iudge of all.</p>
+            <p>VVee the Officers and Souldiers of this Army doe hereby declare, agree, and promise to and with each other, and to and with the Parliament and Kingdome as followeth.</p>
+            <p n="1">1. That we shall cheerfully and readily disband, when there<g ref="char:EOLhyphen"/>unto required by the Parliament, or else shall many of us be willing if desired, to further service, either in England or Jre<g ref="char:EOLhyphen"/>land, having first such satisfaction in relation to the grievances and desires heretofore presented, and such security that wee our selves when dis-banded, and in the condition of private men, or other the free-borne people of England to whom the conse<g ref="char:EOLhyphen"/>quence of the case doth equally extend, shall not remaine sub<g ref="char:EOLhyphen"/>iect to the like oppression, iniury, or abuse, as in the premises hath beene attempted and put upon us while an Army; by the same mens continuance in the same credit and power, especially if as our Judges, who have in those past proceedings against the Army so farre prevailed to abuse the Parliament and us, and to indanger the Kingdome: And also such security, that wee our selves, or any members of this Army, or others who have appea<g ref="char:EOLhyphen"/>red to act any thing in behalfe of the Army, in relation to the premises before recited, shall not after disbanding be any way questioned, prosecuted, troubled, or preiudiced, for any thing so acted, or for the entering into, or necessary prosecution of this present agreement; wee say, having first such satisfaction and securities in these things as shall be agreed unto by a Coun<g ref="char:EOLhyphen"/>cell, to consist of those generall Officers of the Army, who have
+<pb n="7" facs="tcp:35321:4"/>concurted in the premises, with two Commission Officers, and two Souldiers to be chosen by each Regiment, who hath concur<g ref="char:EOLhyphen"/>red, or shall concurre with us in the premises, and in this agree<g ref="char:EOLhyphen"/>ment, or by the maior part of such of them who shall meete in Councell for that purpose, when they shall be thereunto called by the Generall.</p>
+            <p n="2">2. That without such satisfaction and securitie as aforesaid, we shall not willingly dis-band, or divide, or suffer our selves to be dis-banded: And whereas we find many strange things suggested, or suspected, to our great preiudice, concerning dan<g ref="char:EOLhyphen"/>gerous Principles, interests, and designes in this Army, as to the overthrow of Magistracy, the suppressing or hindering of Pres<g ref="char:EOLhyphen"/>byterie, the establishing of Jndependent government, or uphol<g ref="char:EOLhyphen"/>ding of a generall Licentiousnesse, under pretence of Liberty of Conscience; and many such things: VVe shall very shortly tender to the Parliament a Vindication of the Army from all such scandals, to cleare our Principles in relation thereunto: And in the meane time, we do disavow and disclaime all pur<g ref="char:EOLhyphen"/>pose or Designe in our late or present proceedings, to advance or insist upon any such interest, neither would we, if we might and could set up any one particular Party or interest in the Kingdome, though imagined never so much our own; but should much rather studie to provide for (as far as may be within our Sphere or Power) such an establishment of common and equall Right, Freedome, and Safety to the whole; as all might equally partake of; that do not by denying the same to others, or other<g ref="char:EOLhyphen"/>wise, render themselves uncapable of it.</p>
+            <list>
+               <head>SEVERALL REASONS VVHY VVEE SOULDIERS CAST out our discenting Officers.</head>
+               <item>FIrst, their continuance among us must needs make them pri<g ref="char:EOLhyphen"/>vie to our actions, and their actings being opposite to our iust proceedings, must needs be inconsistant to our welfare.</item>
+               <item>Secondly, their thus acting is contrary to the rules of Mar<g ref="char:EOLhyphen"/>shall discipline.</item>
+               <item>Thirdly, they have discented from the principles by which wee have alwaies acted, (viz.) the maintaining of our iust rights and priviledges.</item>
+               <pb n="8" facs="tcp:35321:5"/>
+               <item>Fourthly, by their actions they lay open the Parliament to mis-apprehensions, they affirming to doe iustice in the be<g ref="char:EOLhyphen"/>halfe of all men: yet notwithstanding our rule hath been no<g ref="char:EOLhyphen"/>thing but iustice; they oppose us, pretending therein to serve the Parliament; and farther representing us to them as in a false Glasse, have caused the Parliament to misapprehend us, and so to render themselves enemies to both.</item>
+               <item>Fiftly, their endeavours to render us devided, by promoting principles which (if effected) inevitably tend to our distruc<g ref="char:EOLhyphen"/>tion.</item>
+               <item>Sixtly, their not ioyning with us, in the defence of our iust rights, according to our first principles, doth render them ei<g ref="char:EOLhyphen"/>ther to be swayd by slavish feare; or finister respects.</item>
+               <item>Seventhly, the seperating of the knowne corrupted mem<g ref="char:EOLhyphen"/>bers from us, may for the future hinder the progresse of some so corrupted, not yet discovered, and conduce to the peace and welbeing of the Army.</item>
+            </list>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Edward Sexby. the Generals Regiment.</item>
+                     <item>John Taylor. the Generals Regiment.</item>
+                     <item>VVilliam Allen. Lieu. Generals Regiment.</item>
+                     <item>Samuel VVhiting. Lieu. Generals Regiment.</item>
+                     <item>Thomas Shepherd. Comis. Generals Regiment.</item>
+                     <item>VVill. Hammond. Comis. Generals Regiment.</item>
+                     <item>Henry Githinges. Colonell Sheifelds Regiment.</item>
+                     <item>Edward Star. Colonell Sheifelds Regiment.</item>
+                     <item>VVilliam Joanes. Colonell Fleetwoods Regiment.</item>
+                     <item>John Casby. Colonell Fleetwoods Regiment.</item>
+                     <item>John Braman. Colonell Rich his Regiment.</item>
+                     <item>Richard williams. Colonell Rich his Regiment.</item>
+                     <item>John Thust Colonell Hamond his Regiment.</item>
+                     <item>VVilliam Bridgman. Colonell Hamond his Regiment.</item>
+                     <item>Robert Mason. Colonell VValler his Regiment.</item>
+                     <item>Henry Anderton. Colonell VValler his Regiment.</item>
+                     <item>Nicholas Andrewes. Colonell Harlow his Regiment.</item>
+                     <item>Ralph Prontis. Colonell Harlow his Regiment.</item>
+                     <item>Harbert Feild. Colonell Lilburne his Regiment.</item>
+                     <item>Thomas Halston. Colonell Lilburne his Regiment.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
